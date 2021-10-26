@@ -1,0 +1,38 @@
+export const ProjectsData = [
+  {
+    id: 1,
+    title: 'web site 1',
+    about: 'details about this project',
+    tags: ['react js', 'redux'],
+    demo: 'some link',
+    github: 'some link',
+    image: require('../../assets/pros/pro1.png').default,
+  },
+  {
+    id: 2,
+    title: 'web site 2',
+    about: 'details about this project',
+    tags: ['react js', 'redux'],
+    demo: 'some link',
+    github: 'some link',
+    image: require('../../assets/pros/pro2.png').default,
+  },
+  {
+    id: 3,
+    title: 'web site 3',
+    about: 'details about this project3',
+    tags: ['react js', 'redux'],
+    demo: 'some link',
+    github: 'some link',
+    image: require('../../assets/pros/pro3.png').default,
+  },
+  {
+    id: 4,
+    title: 'web site 4',
+    about: 'details about this project 4',
+    tags: ['react js', 'redux'],
+    demo: 'some link',
+    github: 'some link',
+    image: require('../../assets/pros/pro4.png').default,
+  },
+];
